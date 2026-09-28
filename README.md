@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -33,11 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -66,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0701-insert-into-a-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
