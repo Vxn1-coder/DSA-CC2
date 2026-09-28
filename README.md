@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0022-generate-parentheses) |
 | [0152-maximum-product-subarray](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0152-maximum-product-subarray) |
 ## Tree
 |  |
@@ -77,5 +78,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0058-length-of-last-word) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
