@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Vxn1-coder/DSA-CC2/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
